@@ -1,0 +1,9 @@
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Domains\obj\Debug\netstandard2.0\Domains.AssemblyInfoInputs.cache
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Domains\obj\Debug\netstandard2.0\Domains.AssemblyInfo.cs
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Domains\bin\Debug\netstandard2.0\Domains.deps.json
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Domains\bin\Debug\netstandard2.0\Domains.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Domains\bin\Debug\netstandard2.0\Domains.pdb
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Domains\obj\Debug\netstandard2.0\Domains.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Domains\obj\Debug\netstandard2.0\Domains.pdb
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Domains\obj\Debug\netstandard2.0\Domains.csprojAssemblyReference.cache
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Domains\obj\Debug\netstandard2.0\Domains.csproj.CoreCompileInputs.cache

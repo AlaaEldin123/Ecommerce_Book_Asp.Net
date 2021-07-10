@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "y7/+jDKlqGowIUXhyOs6rxcrofUKFhhzMt3JLeldWXlR+VZ5NGmpmM+7Kxa1Qkmgl5omZHhdMuEAkA0EKJ2pcg==",
+  "success": true,
+  "projectFilePath": "F:\\ASP.NET TEACHER EJEPTION\\Bookss Add done\\Bookss Add done\\Domains\\Domains.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alaa Eldin\\.nuget\\packages\\buildbundlerminifier\\3.2.449\\buildbundlerminifier.3.2.449.nupkg.sha512",
+    "C:\\Users\\Alaa Eldin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Alaa Eldin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Alaa Eldin\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

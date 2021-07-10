@@ -1,0 +1,476 @@
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\appsettings.json
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\Bookss.exe
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\obj\Debug\netcoreapp3.1\Bookss.csprojAssemblyReference.cache
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\obj\Debug\netcoreapp3.1\Bookss.AssemblyInfoInputs.cache
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\obj\Debug\netcoreapp3.1\Bookss.AssemblyInfo.cs
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\obj\Debug\netcoreapp3.1\Bookss.RazorAssemblyInfo.cache
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\obj\Debug\netcoreapp3.1\Bookss.RazorAssemblyInfo.cs
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\obj\Debug\netcoreapp3.1\Bookss.TagHelpers.input.cache
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\obj\Debug\netcoreapp3.1\Bookss.TagHelpers.output.cache
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\obj\Debug\netcoreapp3.1\Bookss.RazorCoreGenerate.cache
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\obj\Debug\netcoreapp3.1\Bookss.RazorTargetAssemblyInfo.cache
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\obj\Debug\netcoreapp3.1\Bookss.RazorTargetAssemblyInfo.cs
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\obj\Debug\netcoreapp3.1\staticwebassets\Bookss.StaticWebAssets.Manifest.cache
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\obj\Debug\netcoreapp3.1\staticwebassets\Bookss.StaticWebAssets.xml
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\obj\Debug\netcoreapp3.1\Bookss.csproj.CopyComplete
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\Bookss.deps.json
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\Bookss.runtimeconfig.json
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\Bookss.runtimeconfig.dev.json
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\Bookss.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\Bookss.pdb
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\Bookss.Views.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\Bookss.Views.pdb
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\obj\Debug\netcoreapp3.1\Bookss.Views.pdb
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\obj\Debug\netcoreapp3.1\Bookss.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\obj\Debug\netcoreapp3.1\Bookss.pdb
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\obj\Debug\netcoreapp3.1\Bookss.genruntimeconfig.cache
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\obj\Debug\netcoreapp3.1\Bookss.csproj.CoreCompileInputs.cache
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\obj\Debug\netcoreapp3.1\Bookss.MvcApplicationPartsAssemblyInfo.cache
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Items\List.cshtml.g.cs
+E:\ASP.NET TEACHER EJEPTION\TEST\Books folder 9\Bookss\Bookss\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Items\Edit.cshtml.g.cs
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Bookss.exe
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Bookss.deps.json
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Bookss.runtimeconfig.json
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Bookss.runtimeconfig.dev.json
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Bookss.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Bookss.pdb
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Bookss.Views.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Bookss.Views.pdb
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Bookss.csprojAssemblyReference.cache
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Bookss.AssemblyInfoInputs.cache
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Bookss.AssemblyInfo.cs
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Bookss.csproj.CoreCompileInputs.cache
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Bookss.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Bookss.RazorAssemblyInfo.cache
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Bookss.RazorAssemblyInfo.cs
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Bookss.TagHelpers.input.cache
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Bookss.TagHelpers.output.cache
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Bookss.RazorCoreGenerate.cache
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Items\Edit.cshtml.g.cs
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Items\List.cshtml.g.cs
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Bookss.RazorTargetAssemblyInfo.cache
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Bookss.RazorTargetAssemblyInfo.cs
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Bookss.Views.pdb
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Bookss.csproj.CopyComplete
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\staticwebassets\Bookss.StaticWebAssets.Manifest.cache
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\staticwebassets\Bookss.StaticWebAssets.xml
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Bookss.dll
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Bookss.pdb
+C:\Users\Led\Desktop (2)\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Bookss.genruntimeconfig.cache
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Bookss.exe
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Bookss.deps.json
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Bookss.runtimeconfig.json
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Bookss.runtimeconfig.dev.json
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Bookss.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Bookss.pdb
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Bookss.Views.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Bookss.Views.pdb
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Bookss.csprojAssemblyReference.cache
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Bookss.AssemblyInfoInputs.cache
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Bookss.AssemblyInfo.cs
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Bookss.RazorAssemblyInfo.cache
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Bookss.RazorAssemblyInfo.cs
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Bookss.TagHelpers.input.cache
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Bookss.TagHelpers.output.cache
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Bookss.RazorCoreGenerate.cache
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Items\Edit.cshtml.g.cs
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Items\List.cshtml.g.cs
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Bookss.RazorTargetAssemblyInfo.cache
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Bookss.RazorTargetAssemblyInfo.cs
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Bookss.Views.pdb
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Bookss.csproj.CopyComplete
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\staticwebassets\Bookss.StaticWebAssets.Manifest.cache
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\staticwebassets\Bookss.StaticWebAssets.xml
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Bookss.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Bookss.pdb
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Bookss.genruntimeconfig.cache
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Domains.dll
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\Domains.pdb
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Razor\Views\Items\Details.cshtml.g.cs
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\bin\Debug\netcoreapp3.1\bundleconfig.json
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Item.cshtml.g.cs
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Razor\Views\Order\Cart.cshtml.g.cs
+C:\Users\Led\Desktop (2)\ASP course\Bookss Add done\Bookss Add done\Bookss\obj\Debug\netcoreapp3.1\Razor\Views\Items\ItemList.cshtml.g.cs
